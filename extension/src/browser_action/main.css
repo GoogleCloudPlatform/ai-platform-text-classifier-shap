@@ -1,0 +1,24 @@
+#mainPopup {
+    padding: 10px;
+    width: 400px;
+    font-family: Helvetica, Ubuntu, Arial, sans-serif;
+}
+h1 {
+    font-size: 2em;
+}
+#ext-body {
+    padding: 20px;
+}
+
+.progress-outer {
+    height: 15px;
+    background-color: lightgrey;
+    margin-bottom: 5px;
+    /* display: inline-block; */
+}
+
+.progress-inner {
+    height: 15px;
+    width: 0%;
+    background-color: grey;
+}
